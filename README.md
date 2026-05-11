@@ -61,16 +61,6 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🔧 Development & Workflow
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-</p>
-
----
-
 # 🔥 Activity Graph
 
 <p align="center">
