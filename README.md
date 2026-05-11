@@ -29,21 +29,11 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 💻 Programming
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r"/>
-
-</p>
-
----
-
-# 🐧 Operating Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,kali"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r,linux,windows"/>
 
 </p>
 
@@ -59,13 +49,27 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 </p>
 
+
+---
+
+# 🧠 Standards
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/CWE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CVSS-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge"/>
+
+</p>
+
 ---
 
 # 🔥 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mila-Kamila&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mila-Kamila&theme=github-compact&hide_border=true"/>
 
 </p>
 
