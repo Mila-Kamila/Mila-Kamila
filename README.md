@@ -77,14 +77,12 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<a href="https://app.hackthebox.com/users/3135556">
+<img src="https://img.shields.io/badge/Profile-MilaKarmika-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
 
 </p>
-
----
 
 <p align="center">
-⚡ Offensive Security • Pentesting • Ethical Hacking ⚡
+Offensive Security • Labs • Machines • Pro Labs
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6e40c9&height=120&section=footer"/>
