@@ -69,7 +69,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mila-Kamila&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mila-Kamila&theme=dracula&hide_border=true&bg_color=0d1117&color=a020f0&line=a020f0&point=ffffff"/>
 
 </p>
 
