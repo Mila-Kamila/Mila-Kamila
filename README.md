@@ -3,59 +3,61 @@
 <h1 align="center">⚡ Mila Kamila ⚡</h1>
 
 <p align="center">
-💀 Pentester | Web Security | OSINT | Red Team 💀
+Pentester | Red Team | Ethical Hacker
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=OWASP+Testing...;Web+Pentesting...;API+Security...;OSINT+Research...;Kali+Linux+User..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Web+Pentesting...;API+Security...;Mobile+Security...;OSINT+Research...;Ethical+Hacking..."/>
 </p>
 
 ---
 
 # 🕶️ About Me
 
-```bash
-> whoami
+Profesional en Matemáticas Aplicadas y Ciencias de la Computación (MACC) con enfoque en Ciberseguridad y Seguridad Ofensiva.
 
-Pentester
-Cybersecurity Enthusiast
-OWASP Lover
-Learning Active Directory & Red Teaming
-```
+Experiencia en identificación, análisis y reporte de vulnerabilidades mediante pruebas de intrusión en entornos corporativos.
 
 ---
 
-# ⚔️ Technologies
+# ⚔️ Offensive Security
+
+- Web Pentesting
+- API Security
+- Mobile Pentesting (iOS & Android)
+- OSINT
+- Ethical Hacking
+- White, Gray & Black Box Testing
+
+---
+
+# 🛠️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r,linux,windows,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/SoapUI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
 
 </p>
 
 ---
 
-# 🛡️ Security Stack
+# 🧠 Standards & Methodologies
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mila-Kamila&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mila-Kamila&layout=compact&theme=dracula&hide_border=true"/>
+<img src="https://img.shields.io/badge/CWE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CVSS-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge"/>
 
 </p>
 
@@ -66,26 +68,6 @@ Learning Active Directory & Red Teaming
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mila-Kamila&theme=dracula&hide_border=true"/>
-
-</p>
-
----
-
-# 🧠 Currently Learning
-
-- Active Directory
-- Web Exploitation
-- API Pentesting
-- Red Team Operations
-- OSINT Techniques
-
----
-
-# 💻 Hacker Terminal
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0YjA1c2x0dDR6M2V1NXJ6dW1hMW8wN2JtYjN4MHFybzN1bG5nbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
 
 </p>
 
@@ -102,7 +84,7 @@ Learning Active Directory & Red Teaming
 ---
 
 <p align="center">
-⚡ "Hack. Learn. Break. Secure." ⚡
+⚡ Offensive Security • Pentesting • Ethical Hacking ⚡
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6e40c9&height=120&section=footer"/>
