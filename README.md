@@ -65,7 +65,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github"/>
 
 </p>
 
