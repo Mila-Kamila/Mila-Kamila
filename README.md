@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0f0f0f&height=200&section=header&text=Mila%20Kamila&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">⚡ Mila Kamila ⚡</h1>
-
 <p align="center">
 Pentester | Red Team | Ethical Hacker
 </p>
@@ -31,33 +29,43 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🛠️ Tools & Technologies
+# 💻 Programming
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r,linux,windows,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r"/>
 
 </p>
+
+---
+
+# 🐧 Operating Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,kali"/>
+
+</p>
+
+---
+
+# 🛠️ Security Tools
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/SoapUI-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
 
 </p>
 
 ---
 
-# 🧠 Standards & Methodologies
+# 🔧 Development & Workflow
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/CWE-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CVSS-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
