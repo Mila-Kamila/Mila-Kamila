@@ -55,7 +55,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/API_Testing-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SoapUI-111111?style=for-the-badge"/>
 
 </p>
 
