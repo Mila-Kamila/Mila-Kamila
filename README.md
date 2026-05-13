@@ -8,18 +8,18 @@ Pentester | Red Team | Ethical Hacker
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Web+Pentesting...;API+Security...;Mobile+Security...;OSINT+Research...;Ethical+Hacking..."/>
 </p>
 
----
+```bash
+> whoami
 
-# About Me
+Mila Kamila
 
-Profesional en Matemáticas Aplicadas y Ciencias de la Computación (MACC) con enfoque en Ciberseguridad y Seguridad Ofensiva.
+Applied Mathematics & Computer Science professional
+focused on Cybersecurity and Offensive Security.
 
-Experiencia en identificación, análisis y reporte de vulnerabilidades mediante pruebas de intrusión en entornos corporativos.
+Experience in vulnerability assessment, penetration testing,
+security analysis, and reporting within corporate environments.
 
----
-
-# Offensive Security
-
+[ Offensive Security ]
 - Web Pentesting
 - API Security
 - Mobile Pentesting (iOS & Android)
@@ -27,25 +27,26 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 - Ethical Hacking
 - White, Gray & Black Box Testing
 
+```
+
 ---
 
-# Tech Stack
+# Offensive Security Arsenal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,r,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux,windows,github"/>
 
 </p>
 
----
-
-# Security Tools
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/SoapUI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff6600"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=orange"/>
+<img src="https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=smartthings&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff99"/>
 
 </p>
 
@@ -57,9 +58,9 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 <p align="center">
 
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/CWE-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CVSS-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CWE-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/CVSS-000000?style=for-the-badge&logo=hackaday&logoColor=red"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=target&logoColor=red"/>
 
 </p>
 
