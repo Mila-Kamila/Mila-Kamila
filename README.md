@@ -10,7 +10,7 @@ Pentester | Red Team | Ethical Hacker
 
 ---
 
-# 🕶️ About Me
+# About Me
 
 Profesional en Matemáticas Aplicadas y Ciencias de la Computación (MACC) con enfoque en Ciberseguridad y Seguridad Ofensiva.
 
@@ -18,7 +18,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# ⚔️ Offensive Security
+# Offensive Security
 
 - Web Pentesting
 - API Security
@@ -29,7 +29,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -39,7 +39,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🛠️ Security Tools
+# Security Tools
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🧠 Standards
+# Standards
 
 <p align="center">
 
@@ -75,7 +75,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🏴 Hack The Box
+# Hack The Box
 
 <p align="center">
 
