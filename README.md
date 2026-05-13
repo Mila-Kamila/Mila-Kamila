@@ -65,7 +65,7 @@ Experiencia en identificación, análisis y reporte de vulnerabilidades mediante
 
 ---
 
-# 🔥 Activity Graph
+# Activity Graph
 
 <p align="center">
 
